@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-   <h1>Natasya admadani</h1> 
-   <h2>2455201041</h2>
+    <h1>Natasya admadani</h1>
+    <h2>2455201041</h2>
 </body>
 </html>
