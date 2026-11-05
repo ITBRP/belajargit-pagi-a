@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>semester 5 infor pagi a</h1>
+    <h1>semester 5 informatika pagi a</h1>
 </body>
 </html>
