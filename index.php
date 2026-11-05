@@ -1,1 +1,0 @@
-<h1>Rizki Amanda Sari</h1>
