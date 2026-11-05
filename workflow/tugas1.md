@@ -1,4 +1,4 @@
 - Branch sumber develop
 - buat 1 folder dengan nama "NIM_TGS1"
 - ini 2 file bebas, dan isi code nya bebas
-- Pull Request
+- Pull Request ke master
